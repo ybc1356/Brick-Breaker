@@ -1,2 +1,1 @@
-# Brick-Breaker
-Brick Breaker Game
+A break breaker game created in Java. Used OOP principals and design patterns. The game has three simple levels, these are them in the most basic form. Feel free to change the design as you wish. What's really nice about the code is that it is easy to cuztomize the modules however you want without having to worry about breaking the game or any logcic because of the encapsulation of OOP.
